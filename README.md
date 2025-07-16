@@ -6,7 +6,7 @@ The purpose of this project is to implement an in-memory key-value store (KVS) i
 
 1. Clone the repo  
   ```bash
-  git clone https://github.com/yourusername/fifteen-game.git
+  git clone https://github.com/yourusername/kvs-cache.git
   cd kvs-cache
   ```
 2. Build the project
